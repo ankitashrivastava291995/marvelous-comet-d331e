@@ -11,7 +11,14 @@ const IndexPage = () => (
     <h1>Industries We serve</h1>
     <p>Welcome to your new Gatsby site.</p>
     
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+   <StaticImage
+      src="../images/Industries.jpg"
+      width={300}
+      quality={95}
+      formats={["AUTO", "WEBP", "AVIF"]}
+      alt="A Gatsby astronaut"
+      style={{ marginBottom: `1.45rem` }}
+    /> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
 
    
   </Layout>
