@@ -13,4 +13,4 @@ export default function Industries() {
         </div>
     )
 }
-export default SecondPage
+export default Industries
