@@ -7,4 +7,4 @@ export default function callback () {
     </div>
   )
 }
-export default callback
+export default callback;
