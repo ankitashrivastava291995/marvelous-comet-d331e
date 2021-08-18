@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function call () {
+export default function callback () {
   return (
     <div>
       ankita
