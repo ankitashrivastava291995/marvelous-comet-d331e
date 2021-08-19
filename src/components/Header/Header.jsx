@@ -14,10 +14,10 @@ export const Header = () => {
      <Link to="/industries">Industries</Link>
      </li>
      <li>
-     <Link href="/aboutus">About Us</Link>
+     <Link to="/aboutus">About Us</Link>
      </li>
      <li>
-     <Linka href="/contact">Contact Us</Link>
+     <Linka to="/contact">Contact Us</Link>
      </li>
      </ul>
     </div>      
