@@ -3,6 +3,9 @@ import React from 'react'
 export const HomeHero = () => {
   return (
     <div>
+    <Layout>
+    
+    </Layout>
       <StaticImage
       src="../images/Industries.jpg"
       width={300}
