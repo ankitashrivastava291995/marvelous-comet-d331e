@@ -6,7 +6,7 @@ export const Header = () => {
     <div>
       <div>ERAINTERFACES</div>
     <div>
-     <ul>
+     <ul >
      <li>
      <Link to="/">Home</Link>
      </li>
