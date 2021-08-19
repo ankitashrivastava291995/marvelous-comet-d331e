@@ -16,7 +16,7 @@ export default function header() {
  <a href="/aboutus">About Us</a>
  </li>
  <li>
- <a href="/contact"></a>
+ <a href="/contact">Contact Us</a>
  </li>
  </ul>
 </div>      
