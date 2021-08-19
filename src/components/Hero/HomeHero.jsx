@@ -5,7 +5,7 @@ export const HomeHero = () => {
     <div>
       <StaticImage
       src="../images/Industry_1.jpg"
-      width={1366}
+      width={700}
       quality={95}
       formats={["AUTO", "WEBP", "AVIF"]}
       alt="A Gatsby astronaut"
