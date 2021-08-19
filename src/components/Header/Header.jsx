@@ -4,7 +4,7 @@ import headerStyles from './header.module.css';
 
 export const Header = () => {
   return (
-    <div className={headerStyles.header}>
+    <div className= {headerStyles.header}>
     <div>ERAINTERFACES</div>
     <div>
      <ul>
