@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const header = () => {
+export const F = () => {
   return (
     <div>
       
