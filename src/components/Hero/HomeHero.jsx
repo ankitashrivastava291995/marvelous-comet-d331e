@@ -4,9 +4,7 @@ export const HomeHero = () => {
   return (
     <div>
     <Layout>
-    
-    </Layout>
-      <StaticImage
+ <StaticImage
       src="../images/Industries.jpg"
       width={300}
       quality={95}
@@ -14,6 +12,8 @@ export const HomeHero = () => {
       alt="A Gatsby astronaut"
       style={{ marginBottom: `1.45rem` }}
     />
+    </Layout>
+     
     </div>
   )
 }
