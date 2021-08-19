@@ -3,6 +3,8 @@ import header from '../components/header'
 const IndexPage = () => (
 <>
  <header/>
+ <layout></layout>
+ 
  <h1>ankita</h1>
  </>
 )
