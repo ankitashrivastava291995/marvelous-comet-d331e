@@ -3,7 +3,7 @@ import {Link} from 'gatsby'
 import HeaderStyles from './Header.module.css'
 export const Header = () => {
   return (
-    <div className={HeaderStyles.Header}>
+    <div className={HeaderStyles.header}>
       <div>ERAINTERFACES</div>
     <div>
      <ul>
