@@ -3,7 +3,7 @@ import Layout from "../components/Layout"
 
 const IndexPage = () => (
 <Layout>
-<HomeHero
+<HomeHero/>
  <h1>ankita shrivastava</h1>
 </Layout>
 
