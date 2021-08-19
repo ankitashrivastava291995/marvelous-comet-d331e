@@ -1,6 +1,6 @@
 import * as React from "react"
 import Layout from "../components/Layout"
-import Footer from '../components/Footer/Footer'
+import Footer from '../components/Hero/Footer'
 const IndexPage = () => (
 <Layout>
  <HomeHero/>
