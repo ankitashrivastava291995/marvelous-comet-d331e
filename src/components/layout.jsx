@@ -4,9 +4,9 @@ import Footer from '../components/Footer/Footer'
 
 export const layout = () => {
   return (
-    <div>
+    <>
       
-    </div>
+    </>
   )
 }
 
