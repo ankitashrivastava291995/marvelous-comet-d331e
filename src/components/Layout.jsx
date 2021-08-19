@@ -9,7 +9,7 @@ import Footer from '../components/Footer/Footer'
       {children}
       <Footer/>
     </>
-  )
+  );
 }
 
 export default Layout;
