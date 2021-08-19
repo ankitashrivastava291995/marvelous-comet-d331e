@@ -3,7 +3,7 @@ import React from 'react'
 export const Header = () => {
   return (
     <div className="header">
-    <div></div>
+    <div>ERAINTERFACES</div>
     <div>
      <ul>
      <li>
