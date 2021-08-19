@@ -1,8 +1,8 @@
 import * as React from "react"
-import header from '../components/header'
+import Header from '../components/header'
 const IndexPage = () => (
 <>
- <header/>
+ <Header/>
  <h1>ankita shrivastava</h1>
  </>
 )
