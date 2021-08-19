@@ -6,6 +6,7 @@ const IndexPage = () => (
 <>
  <Header/>
  <h1>ankita shrivastava</h1>
+ <Footer/>
  </>
 )
 
