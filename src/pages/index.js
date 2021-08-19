@@ -3,7 +3,7 @@ import header from "../components/header";
 const IndexPage = () => (
 <>
  <header/>
- <h1></h1>
+ <h1>ankita</h1>
  </>
 )
 
