@@ -6,10 +6,6 @@ export const Header = () => {
     <div>
       <div>ERAINTERFACES</div>
     <div>
-     <li>
-     <Link to="/">Home</Link>
-     </li>
-     <li>
      <Link to="/industries">Industries</Link>
      </li>
      <li>
