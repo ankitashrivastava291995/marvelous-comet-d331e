@@ -1,10 +1,10 @@
 import React from 'react'
 import {Link} from 'gatsby'
-import headerStyles from '.Header/header.module.css';
+import headerStyles from './header.module.css';
 
 export const Header = () => {
   return (
-    <div className={headerStyles.header}>
+    <div ={headerStyles.header}>
     <div>ERAINTERFACES</div>
     <div>
      <ul>
