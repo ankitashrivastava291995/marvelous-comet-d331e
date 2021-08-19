@@ -13,7 +13,7 @@ export default function header() {
  <a href="/industries">Industries</a>
  </li>
  <li>
- <a href="/aboutus"></a>
+ <a href="/aboutus">About Us</a>
  </li>
  <li>
  <a href="/contact"></a>
