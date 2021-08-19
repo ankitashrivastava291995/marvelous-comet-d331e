@@ -7,10 +7,10 @@ const IndexPage = () => (
  <header/>
 <h1>ankita</h1> 
 
+ </>
  </layout>
 
  
- </>
 )
 
 export default IndexPage
