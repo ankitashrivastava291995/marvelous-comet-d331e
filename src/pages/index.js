@@ -7,6 +7,6 @@ const IndexPage = () => (
  <h1>ankita shrivastava</h1>
 </Layout>
 
-)
+) 
 
 export default IndexPage
