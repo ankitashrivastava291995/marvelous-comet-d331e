@@ -4,7 +4,7 @@ export const HomeHero = () => {
   return (
     <div>
     <Layout>
- <StaticImage
+    <StaticImage
       src="../images/Industries.jpg"
       width={300}
       quality={95}
