@@ -6,7 +6,6 @@ export const Header = () => {
     <div>
       <div>ERAINTERFACES</div>
     <div>
-     <ul className={headerStyles.header}>
      <li>
      <Link to="/">Home</Link>
      </li>
