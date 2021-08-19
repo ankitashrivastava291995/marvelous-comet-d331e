@@ -1,5 +1,5 @@
 import * as React from "react"
-import {  } from "..header";
+import {  } from "../component/header";
 const IndexPage = () => (
  <header/>
 )
