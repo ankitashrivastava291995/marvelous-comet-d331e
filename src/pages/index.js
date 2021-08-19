@@ -5,7 +5,7 @@ const IndexPage = () => (
 
 <Layout>
  <h1>ankita shrivastava</h1>
-</layout>
+</Layout>
 
 )
 
