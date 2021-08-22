@@ -2,8 +2,9 @@
     background-color: #000000;
 }
 
-li{
-    
+.li {
+   display: inline;
+
 }
 .logo{
     color:white;
