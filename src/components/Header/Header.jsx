@@ -1,6 +1,6 @@
 import React from 'react'
 import {Link} from 'gatsby'
-import "./header.moduc.css"
+import "./header.module.css"
 import headerStyles from './header.module.css'
 export const Header = () => {
   return (
