@@ -1,5 +1,5 @@
 import React from 'react'
-import Industry_1 from ""
+import Industry_1 from "Images"
 export const HomeHero = () => {
   return (
     <div>
