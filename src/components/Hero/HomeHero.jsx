@@ -8,7 +8,9 @@ export const HomeHero = () => {
       <div>
        <img src={Industry_1} alt="Industry_1"/>
       </div>
-      <div></div>
+      <div>
+      <
+      </div>
      
     </div>
     </div>
