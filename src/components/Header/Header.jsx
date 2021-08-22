@@ -14,7 +14,7 @@ export const Header = () => {
     <li  className="li">
      <Link to="/industries">Industries</Link>
      </li>
-     <li>
+     <li  className="li">
      <Link to="/aboutus">About Us</Link>
      </li>
      <li  className="li">
