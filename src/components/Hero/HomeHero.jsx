@@ -10,7 +10,7 @@ export const HomeHero = () => {
       </div>
       <div>
       <h1>Industries We Serve</h1>
-      <p></p>
+      <p>Open new opportunities in the web and app landscapes with our open-source development ...</p>
       </div>
      
     </div>
