@@ -6,10 +6,9 @@ export const Header = () => {
   return (
     <div className="header ">
       <div  className="logo">ERAINTERFACES</div>
-    <div>
+ 
    
-   
-        </div>
+    </div>
   )
 }
 export default Header
