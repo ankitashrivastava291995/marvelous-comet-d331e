@@ -9,7 +9,8 @@ export const HomeHero = () => {
        <img src={Industry_1} alt="Industry_1"/>
       </div>
       <div>
-      <
+      <h1>Industries We Serve</h1>
+      <p></p>
       </div>
      
     </div>
