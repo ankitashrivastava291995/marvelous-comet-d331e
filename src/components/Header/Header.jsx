@@ -7,7 +7,7 @@ export const Header = () => {
     <div className="header ">
       <div  className="logo">ERAINTERFACES</div>
     <div>
-    <ul>
+    <ul >
      <li className="li">
      <Link to="/">Home</Link>
      </li>
