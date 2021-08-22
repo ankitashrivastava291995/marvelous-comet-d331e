@@ -4,7 +4,7 @@ import "./header.css"
 export const Header = () => {
   return (
     <div className="header">
-      <div>ERAINTERFACES</div>
+      <div  className="logo">ERAINTERFACES</div>
     <div>
     <ul>
      <li>
