@@ -5,7 +5,9 @@ export const HomeHero = () => {
     <div>
     <h1>Industries We Serve</h1>
     <div>
+      <div>
     
+    </div>
     </div>
     </div>
   )
