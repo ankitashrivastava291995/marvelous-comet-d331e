@@ -8,7 +8,7 @@ export const Header = () => {
       <div  className="logo">ERAINTERFACES</div>
     <div>
    
-    </div>      
+   
         </div>
   )
 }
