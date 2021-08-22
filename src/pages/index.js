@@ -5,7 +5,7 @@ import HomeHero from '../components/Hero/HomeHero'
 const IndexPage = () => (
 <Layout>
  <HomeHero/>
- 
+
 </Layout>
 
 ) 
