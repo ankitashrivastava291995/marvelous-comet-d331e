@@ -1,5 +1,5 @@
 import React from 'react'
-import 
+import Industry_1 
 export const HomeHero = () => {
   return (
     <div>
